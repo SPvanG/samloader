@@ -16,6 +16,10 @@ $ pip3 install git+https://github.com/martinetd/samloader.git
 
 ## Usage
 
+You will need the EMEI number and CSC code of your Samsung device to download the right firmware.
+To retrieve the EMEI number of your Samsung device: *#06#
+And to get the CSC code of your Samsung device *#1234#
+
 Run with `samloader` or `python3 -m samloader`. See `samloader --help` and
 `samloader (command) --help` for help.
 
